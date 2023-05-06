@@ -1,0 +1,6 @@
+public classn Class {
+    public static void main (String[] args) {
+        string name = "Lovely";
+        System.out.println(name);
+    }
+}
